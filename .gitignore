@@ -1,0 +1,30 @@
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+env/
+
+# Archivos de configuración de IDE
+.idea/
+.vscode/
+*.iml
+
+# Archivos compilados de Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Archivos de logs
+*.log
+
+# Archivos de pytest
+.cache/
+htmlcov/
+.reports/
+
+# Archivos de Playwright
+playwright-report/
+
+# Archivos de pytest-html
+reporte.html
